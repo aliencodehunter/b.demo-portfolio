@@ -1,0 +1,103 @@
+
+body{
+    background-color: #E0F4FF;
+    margin: 0;
+}
+
+.container{
+    background-color: #E0F4FF;
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+}
+
+.header{ 
+    background-color: #11235A;
+    
+}
+
+.info1{
+    color: #E36414;
+    width: 20%;
+    font-family: 'Protest Revolution', sans-serif;
+    padding-top: 12rem;
+    margin: 0 auto 0 auto;
+    font-size: 60px;
+}
+.info2{
+    color:#FFB534;
+    padding-bottom: 15rem;
+    margin: auto;
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 25px ;
+}
+
+.mypic{
+    width: 10rem;
+    border-radius: 50%;
+}
+.descryption{
+    padding: 200px;
+}
+p{
+    width: 60%;
+    margin: 0 auto 0 auto;
+}
+h3{
+    color: #132043;
+    font-family: 'Bree Serif', serif;
+    font-size: 29px;
+}
+.info{
+    padding: 200px;
+}
+
+p{
+    color: #12486B;
+    font-family: 'Chivo', sans-serif;
+    font-size: 25px;
+}
+.education{
+    padding-top: 200px;
+}
+
+.footer{
+    background-color:  #6DB9EF;
+    padding: 100px;
+    font-size: 30px;
+    font-family: 'Protest Strike', sans-serif;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: #862B0D;
+}
+hr{
+        color:#D3D04F;
+        height:2px;
+        border-top:8px;
+        border-bottom:0px;
+        border-left:0px;
+        border-right:0px;
+        border-style:dotted;
+        width:25%;      
+}
+.top{
+    padding: 5px 0 5px;
+    position: fixed;
+    width: 100%;
+}
+
+.contact,.about-us{
+    color: white;
+    font-size: 18px;   
+    
+    
+}
+.home{
+    color: #F5F0BB;
+    margin: 10px 78% 0 15px; 
+    font-size: 25px;
+    text-align: left;
+  
+}
