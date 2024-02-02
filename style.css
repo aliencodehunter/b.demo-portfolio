@@ -11,7 +11,7 @@ body{
     line-height: 2;
 }
 
-.header{ 
+.header{
     background-color: #11235A;
     
 }
@@ -83,6 +83,7 @@ hr{
         width:25%;      
 }
 .top{
+    background-color: #11235A;
     padding: 5px 0 5px;
     position: fixed;
     width: 100%;
